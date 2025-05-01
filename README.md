@@ -65,6 +65,10 @@
     <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="Dbeaver" />
     <img src="https://img.shields.io/badge/GitHub%20Copilot-06CD6D?style=for-the-badge&logo=github-copilot&logoColor=white" alt="Github Copilot" />
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Mockito-32A03D?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito" />
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" />
+    <img src="https://img.shields.io/badge/Mockgen-F7DF1E?style=for-the-badge&logo=go&logoColor=black" alt="Mockgen" />
+    <img src="https://img.shields.io/badge/Testify-000000?style=for-the-badge&logo=go&logoColor=white" alt="Testify" />
   </div>
 </div>
 
