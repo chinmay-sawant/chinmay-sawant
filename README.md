@@ -1,16 +1,34 @@
 <div align="center">
   <h1>Hi, I'm Chinmay Sawant 👋</h1>
+  <p>Resourceful Software Engineer specializing in Java and Go with experience in EdTech and Healthcare.<br>Based in Mumbai, India.</p>
+</div>
+
+---
+
+<div align="center">
+  <h2>Experience</h2>
+  
+  <h3>Leading Healthcare Company, Mumbai</h3>
+  <p><strong>Senior Software Engineer</strong> (August 2024 - Present)</p>
   <p>
-    Resourceful Software Engineer based in Mumbai, India with over 5 years of experience.<br>
-    I specialize in Java technologies, including Spring Boot and Microservices, with a strong background in EdTech projects.<br>
-    Currently contributing to a leading healthcare company, focusing on impactful R&D initiatives and process improvements.<br>
-    I hold a Bachelor of Science in Information Technology from India.
+    Focused on developing applications in Go (Gin, Gorm, GraphQL/Gqlgen) and Python within a microservices architecture. Key contributions include:<br>
+    Migrating legacy services, optimizing data pipelines, and leveraging Generative AI (GitHub Copilot) for significant productivity improvements.<br>
+    Experienced with Docker, OpenShift (OKD), and Wundergraph.
+  </p>
+
+  <h3>Leading EdTech Company, India</h3>
+  <p><strong>Associate System Analyst</strong> (February 2020 - July 2024)</p>
+  <p>
+    Led implementation of new requirements and bug resolution. Drove R&D initiatives using Python and Java.<br>
+    Developed reporting solutions (JRXML, Python reportlabs) and numerous utilities to enhance workflow efficiency.<br>
+    Spearheaded application upgrades (JBOSS to Wildfly, Java/Servlet to Spring Boot/Angular), implemented security measures (PII), and contributed to process improvements.
   </p>
 </div>
 
 ---
 
 <div align="center">
+  <h2>Skills</h2>
   <p>Here are some of the technologies I work with:</p>
   <div >
     <img src="https://img.shields.io/badge/Java%201.6-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 1.6" />
@@ -26,6 +44,7 @@
      <img src="https://img.shields.io/badge/PostgreSQL%2015.3-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql 15.3" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F87C00?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="Apache Tomcat" />
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -51,7 +70,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="text-align: center;">
   <p>Outside of coding, I enjoy:</p>
   <p>
     📖 Book Reading &middot; 🚴 Cycling &middot; 🎵 Enjoy Music &middot; 🔭 Exploring Tech &middot; ♟️ Playing Chess &middot; 🌌 Space enthusiast
