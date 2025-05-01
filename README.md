@@ -51,10 +51,10 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://github.com/chinmay-sawant" target="_blank">
+    <a target="_blank" href="https://github.com/chinmay-sawant">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://www.linkedin.com/in/chinmaysawant06/" target="_blank">
+    <a target="_blank" href="https://www.linkedin.com/in/chinmaysawant06/" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     </p>
