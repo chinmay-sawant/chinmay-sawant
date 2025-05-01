@@ -47,7 +47,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="text-align: center;">
   <p>Outside of coding, I enjoy:</p>
   <ul>
     <li>📖 Book Reading</li>
