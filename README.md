@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Chinmay Sawant 👋</h1>
-  <p>Software Engineer from India</p>
+  <p>
+    Resourceful Software Engineer based in Mumbai, India with over 5 years of experience.<br>
+    I specialize in Java technologies, including Spring Boot and Microservices, with a strong background in EdTech projects.<br>
+    Currently contributing to a leading healthcare company, focusing on impactful R&D initiatives and process improvements.<br>
+    I hold a Bachelor of Science in Information Technology from India.
+  </p>
 </div>
 
 ---
