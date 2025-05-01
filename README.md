@@ -26,7 +26,6 @@
      <img src="https://img.shields.io/badge/PostgreSQL%2015.3-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql 15.3" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F87C00?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="Apache Tomcat" />
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -52,16 +51,11 @@
 
 ---
 
-<div align="center" style="text-align: center;">
+<div align="center">
   <p>Outside of coding, I enjoy:</p>
-  <ul>
-    <li>📖 Book Reading</li>
-    <li>🚴 Cycling</li>
-    <li>🎵 Enjoy Music</li>
-    <li>🔭 Exploring Tech</li>
-    <li>♟️ Playing Chess</li>
-    <li>🌌 Space enthusiast</li>
-  </ul>
+  <p>
+    📖 Book Reading &middot; 🚴 Cycling &middot; 🎵 Enjoy Music &middot; 🔭 Exploring Tech &middot; ♟️ Playing Chess &middot; 🌌 Space enthusiast
+  </p>
 </div>
 
 ---
