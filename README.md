@@ -41,40 +41,173 @@
 <div align="center">
   <h2>🚀 Featured Projects</h2>
   
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/chinmay-sawant/MotionSaver">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=MotionSaver&theme=radical" alt="MotionSaver" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chinmay-sawant/CodeMapper">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=CodeMapper&theme=radical" alt="CodeMapper" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/chinmay-sawant/Dokumenter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Dokumenter&theme=radical" alt="Dokumenter" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chinmay-sawant/gemini-to-markdown">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=gemini-to-markdown&theme=radical" alt="Gemini to Markdown" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <details>
-    <summary><strong>🌐 Live Demos & Extensions</strong></summary>
-    <p>
-      🕳️ <a href="https://chinmay-sawant.github.io/Blackhole_Simulation/">Blackhole Simulation</a> •
-      ⚡ <a href="https://chinmay-sawant.github.io/Dyson_Swarms/">Dyson Swarms</a><br>
-      📝 <a href="https://marketplace.visualstudio.com/items?itemName=chinmay-sawant.code-snippet-collector">CodeMemos VS Code Extension</a>
-    </p>
+  <!-- Python Projects -->
+  <details open>
+    <summary><strong>🐍 Python Projects</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/MotionSaver">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=MotionSaver&theme=radical" alt="MotionSaver" />
+          </a>
+          <p><strong>MotionSaver</strong><br>
+          Screensaver application with dynamic video backgrounds, real-time widgets, multi-monitor support. Built with Python & OpenCV.</p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- Go Projects -->
+  <details open>
+    <summary><strong>🐹 Go Projects</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/CodeMapper">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=CodeMapper&theme=radical" alt="CodeMapper" />
+          </a>
+          <p><strong>CodeMapper</strong><br>
+          Analyze large Go codebases, generate dependency maps, visualize relationships in interactive React UI.</p>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/GO_FHIR_DEMO">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=GO_FHIR_DEMO&theme=radical" alt="GO_FHIR_DEMO" />
+          </a>
+          <p><strong>GO FHIR Demo</strong><br>
+          Comprehensive Go Gin application with FHIR R4 support, PostgreSQL, Swagger docs, clean architecture.</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/gin-example">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=gin-example&theme=radical" alt="Employee Management" />
+          </a>
+          <p><strong>Employee Management System</strong><br>
+          Clean architecture with Go & Gin, interface-based layers, comprehensive testing with Testify & GoMock.</p>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Go-Apollo-Graphql-Example">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Go-Apollo-Graphql-Example&theme=radical" alt="Go Apollo GraphQL" />
+          </a>
+          <p><strong>Go Apollo GraphQL</strong><br>
+          GraphQL server with Go & gqlgen, Apollo Gateway integration, federation capabilities.</p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- Java Projects -->
+  <details open>
+    <summary><strong>☕ Java Projects</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Netflix-SpringBoot-Graphql">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Netflix-SpringBoot-Graphql&theme=radical" alt="Netflix SpringBoot GraphQL" />
+          </a>
+          <p><strong>Netflix SpringBoot GraphQL</strong><br>
+          Spring Boot with GraphQL showcasing Netflix dataset integration, modern API development.</p>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/URLShortener">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=URLShortener&theme=radical" alt="URL Shortener" />
+          </a>
+          <p><strong>URL Shortener</strong><br>
+          Full-stack service with React frontend, Java Spring Boot backend, Redis integration, authentication.</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" colspan="2">
+          <a href="https://github.com/chinmay-sawant/e-Commerce">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=e-Commerce&theme=radical" alt="eCommerce Learning" />
+          </a>
+          <p><strong>eCommerce Learning Project</strong><br>
+          Spring Boot with Spring Security, Auth0 JWT, Spring Data JPA, PostgreSQL, JUnit5, Mockito, CI/CD.</p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- React Projects -->
+  <details open>
+    <summary><strong>⚛️ React Projects</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Pomodoro-Manager">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Pomodoro-Manager&theme=radical" alt="Pomodoro Manager" />
+          </a>
+          <p><strong>Pomodoro Manager</strong><br>
+          Productivity tool with React, React-Router, React-CSV for data export, Bootstrap design. Works offline, future chart integration.<br>
+          <a href="https://chinmay-sawant.github.io/Pomodoro-Manager/">🍅 Live Demo</a></p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- VS Code Extensions -->
+  <details open>
+    <summary><strong>🔧 VS Code Extensions</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Dokumenter">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Dokumenter&theme=radical" alt="Dokumenter" />
+          </a>
+          <p><strong>CodeMemos (Dokumenter)</strong><br>
+          VS Code extension to collect code snippets with descriptions, highlight in-editor, export to markdown.<br>
+          <a href="https://marketplace.visualstudio.com/items?itemName=chinmay-sawant.code-snippet-collector">📝 Available on VS Code Marketplace</a></p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- Chrome Extensions -->
+  <details open>
+    <summary><strong>🌐 Chrome Extensions</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/gemini-to-markdown">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=gemini-to-markdown&theme=radical" alt="Gemini to Markdown" />
+          </a>
+          <p><strong>Gemini to Markdown</strong><br>
+          Convert Gemini conversations to markdown, HTML-to-markdown conversion, utilities menu, clipboard integration.</p>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/YoutubeCommentsTracker">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=YoutubeCommentsTracker&theme=radical" alt="YouTube Comments Tracker" />
+          </a>
+          <p><strong>YouTube Comments Tracker</strong><br>
+          Live-updating comments from specific users, timestamp detection, draggable overlay, dual mode operation.</p>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <!-- Vibe Coded Projects -->
+  <details open>
+    <summary><strong>🎨 Vibe Coded Projects</strong></summary>
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Blackhole_Simulation">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Blackhole_Simulation&theme=radical" alt="Blackhole Simulation" />
+          </a>
+          <p><strong>Blackhole Simulation</strong><br>
+          Interactive blackhole simulation with realistic gravitational effects, particle physics visualization.<br>
+          <a href="https://chinmay-sawant.github.io/Blackhole_Simulation/">🕳️ Live Demo</a></p>
+        </td>
+        <td align="center">
+          <a href="https://github.com/chinmay-sawant/Dyson_Swarms">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Dyson_Swarms&theme=radical" alt="Dyson Swarms" />
+          </a>
+          <p><strong>Dyson Swarms</strong><br>
+          Futuristic Dyson swarm visualization, solar energy collection megastructures, orbital mechanics.<br>
+          <a href="https://chinmay-sawant.github.io/Dyson_Swarms/">⚡ Live Demo</a></p>
+        </td>
+      </tr>
+    </table>
   </details>
 </div>
 
@@ -104,7 +237,7 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   
-  <details>
+  <details open>
     <summary><strong>💻 Core Technologies</strong></summary>
     <p>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -115,7 +248,7 @@
     </p>
   </details>
   
-  <details>
+  <details open>
     <summary><strong>🔧 Frameworks & Tools</strong></summary>
     <p>
       <img src="https://img.shields.io/badge/Spring%20Boot-66BB6A?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -126,7 +259,7 @@
     </p>
   </details>
   
-  <details>
+  <details open>
     <summary><strong>🗄️ Databases & Infrastructure</strong></summary>
     <p>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
