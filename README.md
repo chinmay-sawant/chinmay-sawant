@@ -17,7 +17,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=chinmay-sawant&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=chinmay-sawant&show_icons=false&theme=radical&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay-sawant&theme=radical" alt="GitHub Streak" />
