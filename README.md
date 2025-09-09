@@ -5,6 +5,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=chinmay-sawant&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Working%20from%20home-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Total%20Stars-72-blueviolet?style=flat-square" alt="Total Stars" />
   </p>
 </div>
 
@@ -33,7 +34,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=chinmay-sawant&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
   </p>
   
-  <p><strong>37</strong> Public Repos • <strong>6</strong> Followers • <strong>2</strong> Following</p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay-sawant&theme=radical" alt="Activity Graph" />
+  </p>
+  
+  <p><strong>39</strong> Public Repos • <strong>72</strong> Stars • <strong>10</strong> Followers • <strong>4</strong> Following</p>
 </div>
 
 ---
@@ -51,7 +56,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=MotionSaver&theme=radical" alt="MotionSaver" />
           </a>
           <p><strong>MotionSaver</strong><br>
-          Screensaver application with dynamic video backgrounds, real-time widgets, multi-monitor support. Built with Python & OpenCV.</p>
+          Any video as your lockscreen</p>
         </td>
       </tr>
     </table>
@@ -61,13 +66,23 @@
   <details open>
     <summary><strong>🐹 Go Projects</strong></summary>
     <table>
+     <tr> 
+        <td align="center" colspan="2">
+          <a href="https://github.com/chinmay-sawant/gopdfsuit">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=gopdfsuit&theme=radical" alt="GoPdfSuit" />
+          </a>
+          <p><strong>GoPdfSuit</strong><br>
+          Comprehensive web application in Go for PDF generation without templating worries.<br>
+          <a href="https://chinmay-sawant.github.io/gopdfsuit/">📄 Live Demo</a></p>
+        </td>
+      </tr>
       <tr>
         <td align="center">
           <a href="https://github.com/chinmay-sawant/CodeMapper">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=CodeMapper&theme=radical" alt="CodeMapper" />
           </a>
           <p><strong>CodeMapper</strong><br>
-          Analyze large Go codebases, generate dependency maps, visualize relationships in interactive React UI.</p>
+          Code Mapper, written in GO + Javascript, let's the user visualize any GO codebase like nodes</p>
         </td>
         <td align="center">
           <a href="https://github.com/chinmay-sawant/GO_FHIR_DEMO">
@@ -90,7 +105,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Go-Apollo-Graphql-Example&theme=radical" alt="Go Apollo GraphQL" />
           </a>
           <p><strong>Go Apollo GraphQL</strong><br>
-          GraphQL server with Go & gqlgen, Apollo Gateway integration, federation capabilities.</p>
+          Example code for understanding go gqlgen graphql integration with apollo graph</p>
         </td>
       </tr>
     </table>
@@ -138,7 +153,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Pomodoro-Manager&theme=radical" alt="Pomodoro Manager" />
           </a>
           <p><strong>Pomodoro Manager</strong><br>
-          Productivity tool with React, React-Router, React-CSV for data export, Bootstrap design. Works offline, future chart integration.<br>
+          Simple Pomodoro Manager [React Learning Project]<br>
           <a href="https://chinmay-sawant.github.io/Pomodoro-Manager/">🍅 Live Demo</a></p>
         </td>
       </tr>
@@ -155,7 +170,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Dokumenter&theme=radical" alt="Dokumenter" />
           </a>
           <p><strong>CodeMemos (Dokumenter)</strong><br>
-          VS Code extension to collect code snippets with descriptions, highlight in-editor, export to markdown.<br>
+          Allows you to create multiple snippets which you can store in md format<br>
           <a href="https://marketplace.visualstudio.com/items?itemName=chinmay-sawant.code-snippet-collector">📝 Available on VS Code Marketplace</a></p>
         </td>
       </tr>
@@ -172,14 +187,15 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=gemini-to-markdown&theme=radical" alt="Gemini to Markdown" />
           </a>
           <p><strong>Gemini to Markdown</strong><br>
-          Convert Gemini conversations to markdown, HTML-to-markdown conversion, utilities menu, clipboard integration.</p>
+          Gemini to Markdown (GeminiNoteTaker)</p>
         </td>
         <td align="center">
           <a href="https://github.com/chinmay-sawant/YoutubeCommentsTracker">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=YoutubeCommentsTracker&theme=radical" alt="YouTube Comments Tracker" />
           </a>
           <p><strong>YouTube Comments Tracker</strong><br>
-          Live-updating comments from specific users, timestamp detection, draggable overlay, dual mode operation.</p>
+          Live-updating comments from specific users, timestamp detection, draggable overlay, dual mode operation.<br>
+          <a href="https://chromewebstore.google.com/detail/monlejnbfmbmokaeopljdejmldiinpmb?utm_source=item-share-cb">🌐 Available on Chrome Web Store</a></p>
         </td>
       </tr>
     </table>
@@ -195,7 +211,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Blackhole_Simulation&theme=radical" alt="Blackhole Simulation" />
           </a>
           <p><strong>Blackhole Simulation</strong><br>
-          Interactive blackhole simulation with realistic gravitational effects, particle physics visualization.<br>
+          Blackhole Simulation<br>
           <a href="https://chinmay-sawant.github.io/Blackhole_Simulation/">🕳️ Live Demo</a></p>
         </td>
         <td align="center">
@@ -203,7 +219,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmay-sawant&repo=Dyson_Swarms&theme=radical" alt="Dyson Swarms" />
           </a>
           <p><strong>Dyson Swarms</strong><br>
-          Futuristic Dyson swarm visualization, solar energy collection megastructures, orbital mechanics.<br>
+          Dyson Swarms in Gemini Canvas<br>
           <a href="https://chinmay-sawant.github.io/Dyson_Swarms/">⚡ Live Demo</a></p>
         </td>
       </tr>
