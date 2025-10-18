@@ -1,12 +1,12 @@
 # 👋 Chinmay Sawant
 
-**Senior Software Engineer** | Java • Go • Python | EdTech & Healthcare | Mumbai 🏠
+**Senior Software Engineer** | Go • AWS • Java • Python | EdTech & Healthcare | Mumbai 🏠
 
 Resourceful software engineer specializing in Java and Go with extensive experience in EdTech and healthcare domains. Passionate about building scalable backend systems, microservices architecture, and leveraging modern technologies to solve complex problems.
 
 Currently working with Go (Gin, Gorm, GraphQL), Python, and cloud technologies at a leading healthcare company in Mumbai.
 ```
-🟢 Status: Open to collaboration | ⭐ Stars: 72 | 📊 Public Repos: 39
+🟢 Status: Open to collaboration | ⭐ Stars: 201 | 📊 Public Repos: 39
 ```
 
 ## 📊 Stats
