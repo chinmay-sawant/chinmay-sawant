@@ -53,7 +53,7 @@ Currently working with Go (Gin, Gorm, GraphQL), Python, and cloud technologies a
 ## 💼 Experience
 
 **Senior Software Engineer** @ Leading Healthcare Company (Aug 2024 - Present)
-- Go (Gin, Gorm, GraphQL/Gqlgen) & Python | Microservices | Docker & OpenShift (OKD)
+- Go (Gin, Gorm, GraphQL/Gqlgen) & Python | Microservices | AWS, AWS Lambda, Serverless Database, Docker & OpenShift (OKD)
 
 **Associate System Analyst** @ Leading EdTech Company (Feb 2020 - Jul 2024)
 - Python & Java R&D | Reporting Solutions | Application Upgrades
@@ -68,7 +68,7 @@ Currently working with Go (Gin, Gorm, GraphQL), Python, and cloud technologies a
 
 **Databases:** PostgreSQL • Redis • MongoDB
 
-**Other Skills:** Microservices • REST APIs • OpenShift (OKD) • Apache Kafka • Git • VS Code Plugins • JUnit5 • Mockito • Testify
+**Other Skills:** Microservices • REST APIs • OpenShift (OKD) • Apache Kafka • Git • VS Code Plugins • JUnit5 • Mockito • Testify • AWS
 
 ---
 
